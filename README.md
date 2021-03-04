@@ -7,5 +7,5 @@ This repository presents the latest updates to the code and the technical docume
 
 # Citation
 If you use this repository for published work, we encourage you to cite our research papers:
-* Kuosmanen, T., Zhou, X., Eskelinen, J., & Malo, P. (2021). Design Flaw of the Synthetic Control Method. *MPRA Paper 106328*
+* Kuosmanen, T., Zhou, X., Eskelinen, J., & Malo, P. (2021). Design Flaw of the Synthetic Control Method. *MPRA Paper 106328*.
 * Malo, P., Eskelinen, J., Zhou, X., & Kuosmanen, T. (2020). Computing Synthetic Controls Using Bilevel Optimization. *MPRA Paper 104085*.
