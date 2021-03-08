@@ -1,3 +1,5 @@
+[This repository is being updated ...]
+
 # SCM-Debug
 This repository presents the latest updates to the code and the technical documentation for implementing the algorithms proposed by [Kuosmanen, T., Zhou, X., Eskelinen, J., & Malo, P. (2021). Design Flaw of the Synthetic Control Method. *MPRA Paper 106390*](https://mpra.ub.uni-muenchen.de/106390/).  
 
